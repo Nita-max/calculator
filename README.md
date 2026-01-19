@@ -19,13 +19,35 @@ It performs basic arithmetic operations and is easy to use for anyone.
 - 🧼 Clear / Reset functionality
 - 📱 Responsive design (works on mobile & desktop)
 
----
 
 ##  Technologies Used
 - **HTML** – Structure  
 - **CSS** – Styling & layout  
 - **JavaScript** – Logic & functionality  
 
+
 ---
+
+## 📸 Preview
+Open the live link to see the calculator in action 🎯
+
+---
+
+## 📌 How to Use
+1. Click on the live demo link  
+2. Enter numbers using buttons  
+3. Choose the operation  
+4. Get instant results ✨
+
+---
+
+##  Author
+**Nita Waghchaure**
+
+---
+
+##  Feedback
+If you like this project, don’t forget to ⭐ the repository!
+
 
 ## 📂 Project Structure
